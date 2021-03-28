@@ -1,0 +1,12 @@
+name: DashboardCliente
+title: DashboardCliente
+username:
+account: pikarolczak
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3380159
+bundleId: 3967518
+url: https://pikarolczak.shinyapps.io/DashboardCliente/
+when: 1607548412.25148
+asMultiple: FALSE
+asStatic: FALSE
